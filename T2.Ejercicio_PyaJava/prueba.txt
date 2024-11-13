@@ -1,0 +1,4 @@
+def operaciones (a,b,c,d,e,f):
+    op = a+b*c-d/f
+    return op
+print (operaciones(5,6,7,8,9,10)) 
