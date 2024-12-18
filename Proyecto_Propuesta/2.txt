@@ -1,0 +1,16 @@
+Inicio Funcion principal
+    Escribir "Iniciando cálculo de números"
+    entero num1 = 10
+    entero num2 = 20
+    entero resultado = num1 + num2
+    Escribir "El resultado es:"
+    Escribir resultado
+    Si resultado >= 20 Entonces
+        Escribir "El resultado es mayor o igual a 20"
+    Fin Si
+    Repetir 3 Veces
+        Escribir "Este es un mensaje dentro del bucle"
+        resultado = resultado + 1
+    Fin Repetir
+    Escribir "Fin del programa"
+Fin Funcion 

@@ -1,0 +1,11 @@
+Inicio Funcion principal
+    Escribir "Inicio del programa"
+    entero x = 0
+    Repetir 3 Veces
+        Escribir "Dentro del bucle"
+        x = x + 1
+    Si x >= 3 Entonces
+        Escribir "El valor de x es mayor o igual a 3"
+        Fin Si
+    Fin Repetir
+Fin Funcion

@@ -1,0 +1,12 @@
+Inicio Funcion principal
+    Escribir "Inicio del programa"
+    entero contador = 0
+    Repetir 5 Veces
+        Escribir "Dentro del bucle"
+        contador = contador + 1
+    Fin Repetir
+    Si contador >= 5 Entonces
+        Escribir "El contador alcanzó el límite"
+    Fin Si
+    Escribir "Fin del programa"
+Fin Funcion
